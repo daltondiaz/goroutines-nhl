@@ -1,0 +1,132 @@
+2022/04/01 23:56:55 error while getting all teams: parse "%s/teamshttps://statsapi.web.nhl.com/api/v1": invalid URL escape "%s/"
+2022/04/01 23:58:29 Name: %s New Jersey Devils
+2022/04/01 23:58:29 Name: %s New York Islanders
+2022/04/01 23:58:29 Name: %s New York Rangers
+2022/04/01 23:58:29 Name: %s Philadelphia Flyers
+2022/04/01 23:58:29 Name: %s Pittsburgh Penguins
+2022/04/01 23:58:29 Name: %s Boston Bruins
+2022/04/01 23:58:29 Name: %s Buffalo Sabres
+2022/04/01 23:58:29 Name: %s Montréal Canadiens
+2022/04/01 23:58:29 Name: %s Ottawa Senators
+2022/04/01 23:58:29 Name: %s Toronto Maple Leafs
+2022/04/01 23:58:29 Name: %s Carolina Hurricanes
+2022/04/01 23:58:29 Name: %s Florida Panthers
+2022/04/01 23:58:29 Name: %s Tampa Bay Lightning
+2022/04/01 23:58:29 Name: %s Washington Capitals
+2022/04/01 23:58:29 Name: %s Chicago Blackhawks
+2022/04/01 23:58:29 Name: %s Detroit Red Wings
+2022/04/01 23:58:29 Name: %s Nashville Predators
+2022/04/01 23:58:29 Name: %s St. Louis Blues
+2022/04/01 23:58:29 Name: %s Calgary Flames
+2022/04/01 23:58:29 Name: %s Colorado Avalanche
+2022/04/01 23:58:29 Name: %s Edmonton Oilers
+2022/04/01 23:58:29 Name: %s Vancouver Canucks
+2022/04/01 23:58:29 Name: %s Anaheim Ducks
+2022/04/01 23:58:29 Name: %s Dallas Stars
+2022/04/01 23:58:29 Name: %s Los Angeles Kings
+2022/04/01 23:58:29 Name: %s San Jose Sharks
+2022/04/01 23:58:29 Name: %s Columbus Blue Jackets
+2022/04/01 23:58:29 Name: %s Minnesota Wild
+2022/04/01 23:58:29 Name: %s Winnipeg Jets
+2022/04/01 23:58:29 Name: %s Arizona Coyotes
+2022/04/01 23:58:29 Name: %s Vegas Golden Knights
+2022/04/01 23:58:29 Name: %s Seattle Kraken
+2022/04/01 23:58:29 took 366.363544ms
+2022/04/02 00:00:09 Name: %s New Jersey Devils
+2022/04/02 00:00:09 Name: %s New York Islanders
+2022/04/02 00:00:09 Name: %s New York Rangers
+2022/04/02 00:00:09 Name: %s Philadelphia Flyers
+2022/04/02 00:00:09 Name: %s Pittsburgh Penguins
+2022/04/02 00:00:09 Name: %s Boston Bruins
+2022/04/02 00:00:09 Name: %s Buffalo Sabres
+2022/04/02 00:00:09 Name: %s Montréal Canadiens
+2022/04/02 00:00:09 Name: %s Ottawa Senators
+2022/04/02 00:00:09 Name: %s Toronto Maple Leafs
+2022/04/02 00:00:09 Name: %s Carolina Hurricanes
+2022/04/02 00:00:09 Name: %s Florida Panthers
+2022/04/02 00:00:09 Name: %s Tampa Bay Lightning
+2022/04/02 00:00:09 Name: %s Washington Capitals
+2022/04/02 00:00:09 Name: %s Chicago Blackhawks
+2022/04/02 00:00:09 Name: %s Detroit Red Wings
+2022/04/02 00:00:09 Name: %s Nashville Predators
+2022/04/02 00:00:09 Name: %s St. Louis Blues
+2022/04/02 00:00:09 Name: %s Calgary Flames
+2022/04/02 00:00:09 Name: %s Colorado Avalanche
+2022/04/02 00:00:09 Name: %s Edmonton Oilers
+2022/04/02 00:00:09 Name: %s Vancouver Canucks
+2022/04/02 00:00:09 Name: %s Anaheim Ducks
+2022/04/02 00:00:09 Name: %s Dallas Stars
+2022/04/02 00:00:09 Name: %s Los Angeles Kings
+2022/04/02 00:00:09 Name: %s San Jose Sharks
+2022/04/02 00:00:09 Name: %s Columbus Blue Jackets
+2022/04/02 00:00:09 Name: %s Minnesota Wild
+2022/04/02 00:00:09 Name: %s Winnipeg Jets
+2022/04/02 00:00:09 Name: %s Arizona Coyotes
+2022/04/02 00:00:09 Name: %s Vegas Golden Knights
+2022/04/02 00:00:09 Name: %s Seattle Kraken
+2022/04/02 00:00:09 took 190.683077ms
+2022/04/02 00:00:17 Name: New Jersey Devils
+2022/04/02 00:00:17 
+2022/04/02 00:00:17 Name: New York Islanders
+2022/04/02 00:00:17 
+2022/04/02 00:00:17 Name: New York Rangers
+2022/04/02 00:00:17 
+2022/04/02 00:00:17 Name: Philadelphia Flyers
+2022/04/02 00:00:17 
+2022/04/02 00:00:17 Name: Pittsburgh Penguins
+2022/04/02 00:00:17 
+2022/04/02 00:00:17 Name: Boston Bruins
+2022/04/02 00:00:17 
+2022/04/02 00:00:17 Name: Buffalo Sabres
+2022/04/02 00:00:17 
+2022/04/02 00:00:17 Name: Montréal Canadiens
+2022/04/02 00:00:17 
+2022/04/02 00:00:17 Name: Ottawa Senators
+2022/04/02 00:00:17 
+2022/04/02 00:00:17 Name: Toronto Maple Leafs
+2022/04/02 00:00:17 
+2022/04/02 00:00:17 Name: Carolina Hurricanes
+2022/04/02 00:00:17 
+2022/04/02 00:00:17 Name: Florida Panthers
+2022/04/02 00:00:17 
+2022/04/02 00:00:17 Name: Tampa Bay Lightning
+2022/04/02 00:00:17 
+2022/04/02 00:00:17 Name: Washington Capitals
+2022/04/02 00:00:17 
+2022/04/02 00:00:17 Name: Chicago Blackhawks
+2022/04/02 00:00:17 
+2022/04/02 00:00:17 Name: Detroit Red Wings
+2022/04/02 00:00:17 
+2022/04/02 00:00:17 Name: Nashville Predators
+2022/04/02 00:00:17 
+2022/04/02 00:00:17 Name: St. Louis Blues
+2022/04/02 00:00:17 
+2022/04/02 00:00:17 Name: Calgary Flames
+2022/04/02 00:00:17 
+2022/04/02 00:00:17 Name: Colorado Avalanche
+2022/04/02 00:00:17 
+2022/04/02 00:00:17 Name: Edmonton Oilers
+2022/04/02 00:00:17 
+2022/04/02 00:00:17 Name: Vancouver Canucks
+2022/04/02 00:00:17 
+2022/04/02 00:00:17 Name: Anaheim Ducks
+2022/04/02 00:00:17 
+2022/04/02 00:00:17 Name: Dallas Stars
+2022/04/02 00:00:17 
+2022/04/02 00:00:17 Name: Los Angeles Kings
+2022/04/02 00:00:17 
+2022/04/02 00:00:17 Name: San Jose Sharks
+2022/04/02 00:00:17 
+2022/04/02 00:00:17 Name: Columbus Blue Jackets
+2022/04/02 00:00:17 
+2022/04/02 00:00:17 Name: Minnesota Wild
+2022/04/02 00:00:17 
+2022/04/02 00:00:17 Name: Winnipeg Jets
+2022/04/02 00:00:17 
+2022/04/02 00:00:17 Name: Arizona Coyotes
+2022/04/02 00:00:17 
+2022/04/02 00:00:17 Name: Vegas Golden Knights
+2022/04/02 00:00:17 
+2022/04/02 00:00:17 Name: Seattle Kraken
+2022/04/02 00:00:17 
+2022/04/02 00:00:17 took 78.38297ms
